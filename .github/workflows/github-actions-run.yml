@@ -1,0 +1,19 @@
+name: Simple Java Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest-slim
+    steps:
+      - uses: actions/checkout@v7
+      - name: Setup Java Version
+        uses: actions/setup-java@v6
+        with:
+          description: turmin
+          java-version: "25"
+      - run: javac Hello.java
+      - run: java Hello

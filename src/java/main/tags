@@ -1,0 +1,3 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Hello	/home/airaqi/Documents/learn/github/actions/actions_test/src/java/main/Hello.java	/^public class Hello {$/;"	c	language:Java
+main	/home/airaqi/Documents/learn/github/actions/actions_test/src/java/main/Hello.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:Hello

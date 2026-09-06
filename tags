@@ -1,0 +1,8 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ActionTest	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^    <artifactId>ActionTest<\/artifactId>$/;"	a	language:Maven2	groupId:me.hawy.learn.github.actions
+exec.mainClass	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^        <exec.mainClass>me.hawy.learn.github.actions.App<\/exec.mainClass>$/;"	p	language:Maven2
+maven.compiler.release	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^        <maven.compiler.release>21<\/maven.compiler.release>$/;"	p	language:Maven2
+me.hawy.learn.github.actions	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^    <groupId>me.hawy.learn.github.actions<\/groupId>$/;"	g	language:Maven2
+nsff1ec2900101	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^    xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 http:\/\/maven.apache.org\/xsd\/ma/;"	n	language:XML	uri:http://maven.apache.org/POM/4.0.0
+project.build.sourceEncoding	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^        <project.build.sourceEncoding>UTF-8<\/project.build.sourceEncoding>$/;"	p	language:Maven2
+xsi	/home/airaqi/Documents/learn/github/actions/actions_test/pom.xml	/^    xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 http:\/\/maven.apache.org\/xsd\/ma/;"	n	language:XML	uri:http://www.w3.org/2001/XMLSchema-instance

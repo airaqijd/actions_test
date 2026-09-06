@@ -1,0 +1,4 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+App	/home/airaqi/Documents/learn/github/actions/HelloGiteaSha1/src/main/java/me/hawy/learn/github/actions/App.java	/^public class App {$/;"	c	language:Java
+main	/home/airaqi/Documents/learn/github/actions/HelloGiteaSha1/src/main/java/me/hawy/learn/github/actions/App.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:App
+me.hawy.learn.github.actions	/home/airaqi/Documents/learn/github/actions/HelloGiteaSha1/src/main/java/me/hawy/learn/github/actions/App.java	/^package me.hawy.learn.github.actions;$/;"	p	language:Java
